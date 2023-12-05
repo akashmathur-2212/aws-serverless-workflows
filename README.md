@@ -12,6 +12,6 @@
 - Read more about it on [Medium](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)
 - Code Repository [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)
 
-## 4. Big Data Processing Using Distributed Maps and AWS Step Functions. 
+## 4. Big Data Processing Using Distributed Maps and AWS Step Functions
 - Read more about it on [Medium](https://akash-mathur.medium.com/big-data-processing-using-distributed-maps-and-aws-step-functions-2cfa6128039d)
 - Code Repository [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Step-Function-Distributed-Map)
