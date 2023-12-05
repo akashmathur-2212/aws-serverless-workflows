@@ -8,7 +8,7 @@
 - Read more about it on [Medium](https://akash-mathur.medium.com/effortless-scalability-how-asynchronous-lambda-invocation-transforms-aws-workflows-b7b0000bd26d)
 - Code Repository [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Lambda-Asynchronous-Invocation)
 
-## 3. Deploying LLMs: Serverless Magic with Lambda, SageMaker DLC, and API Gateway. 
+## 3. Deploying LLMs: Serverless Magic with Lambda, SageMaker DLC, and API Gateway
 - Read more about it on [Medium](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)
 - Code Repository [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)
 
