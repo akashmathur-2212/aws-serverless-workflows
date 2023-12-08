@@ -6,7 +6,7 @@ def lambda_handler(event, context):
     
     # Get the file details that has been PUT into the designated bucket
     BUCKET = event['Records'][0]['s3']['bucket']['name'] 
-    KEY = event['Records'][0]['s3']['object']['key']
+    KEY = event['Records'][0]['s3']['object']['key'] 
     
     print(BUCKET, KEY)
     config_file_path = f"s3://{BUCKET}/path-to-config-file/{KEY}"
