@@ -2,7 +2,7 @@ import json
 import boto3
 
 # grab environment variables
-ENDPOINT_NAME = 'llm-endpoint-name'  
+ENDPOINT_NAME = 'llm-endpoint-name'   
 runtime= boto3.client('runtime.sagemaker')
 
 def lambda_handler(event, context):
