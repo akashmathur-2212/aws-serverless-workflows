@@ -15,3 +15,6 @@
 ## 4. Big Data Processing Using Distributed Maps and AWS Step Functions
 - Read more about it on [Medium](https://akash-mathur.medium.com/big-data-processing-using-distributed-maps-and-aws-step-functions-2cfa6128039d)
 - Code Repository [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Step-Function-Distributed-Map)
+
+## *Explore, Appreciate, and Give the Repository a Shining ⭐*
+*Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉*
