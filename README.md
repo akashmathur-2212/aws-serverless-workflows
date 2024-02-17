@@ -12,8 +12,12 @@
 - Read more about it on [Medium](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)
 - Code Repository [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/LLM-Endpoint-Deployment-Inference)
 
-## 4. Big Data Processing Using Distributed Maps and AWS Step Functions
-- Read more about it on [Medium](https://akash-mathur.medium.com/big-data-processing-using-distributed-maps-and-aws-step-functions-2cfa6128039d)
+## 4. Deploy a Serverless ML Inference using FastAPI, AWS Lambda, and API Gateway
+- Read more about it on [Medium](https://medium.com/@akash-mathur/deploying-llms-serverless-magic-with-lambda-sagemaker-dlc-and-api-gateway-1bf99517d43e)
+- Code Repository [GitHub](https://github.com/akashmathur-2212/Serverless-Deployment-Using-FastAPI-AWS)
+
+## 5. Big Data Processing Using Distributed Maps and AWS Step Functions
+- Read more about it on [Medium](https://akash-mathur.medium.com/deploy-a-serverless-ml-inference-using-fastapi-aws-lambda-and-api-gateway-32b0b9a40236)
 - Code Repository [GitHub](https://github.com/akashmathur-2212/aws-serverless-workflows/tree/main/Step-Function-Distributed-Map)
 
 ## *Explore, Appreciate, and Give the Repository a Shining ⭐*
